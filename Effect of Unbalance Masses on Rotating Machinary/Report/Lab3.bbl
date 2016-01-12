@@ -1,0 +1,13 @@
+\begin{thebibliography}{1}
+\newcommand{\enquote}[1]{``#1''}
+
+\bibitem{antoni2006spectral}
+Antoni, J. and Randall, R., \enquote{The spectral kurtosis: application to the
+  vibratory surveillance and diagnostics of rotating machines,} {\em Mechanical
+  Systems and Signal Processing\/}, Vol.~20, No.~2, 2006, pp.~308--331.
+
+\bibitem{Slater2002vibration}
+Slater, J.~C., {\em Vibration Testing, with Modal Analysis and health
+  Monitoring\/}, John Wiley \& and Sons, Ltd, 2002.
+
+\end{thebibliography}

@@ -1,0 +1,23 @@
+\begin{thebibliography}{1}
+\newcommand{\enquote}[1]{``#1''}
+
+\bibitem{spalart1997comments}
+Spalart, P., Jou, W., Strelets, M., and Allmaras, S., \enquote{Comments on the
+  feasibility of LES for wings, and on a hybrid RANS/LES approach,} {\em
+  Advances in DNS/LES\/}, Vol.~1, 1997, pp.~4--8.
+
+\bibitem{choi2007reliability}
+Choi, S.-K., Grandhi, R.~V., and Canfield, R.~A., {\em Reliability-based
+  structural design\/}, Springer, 2007.
+
+\bibitem{wang1995improved}
+Wang, L. and Grandhi, R.~V., \enquote{Improved two-point function
+  approximations for design optimization,} {\em AIAA journal\/}, Vol.~33,
+  No.~9, 1995, pp.~1720--1727.
+
+\bibitem{penmetsa2003adaptation}
+Penmetsa, R.~C. and Grandhi, R.~V., \enquote{Adaptation of fast Fourier
+  transformations to estimate structural failure probability,} {\em Finite
+  Elements in Analysis and Design\/}, Vol.~39, No.~5, 2003, pp.~473--485.
+
+\end{thebibliography}

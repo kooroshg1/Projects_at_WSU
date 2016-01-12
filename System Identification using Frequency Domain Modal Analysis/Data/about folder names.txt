@@ -1,0 +1,1 @@
+The folder name represent the location of exitation. (1) is the exitation close to root, (3) is the excitation near the tip.
